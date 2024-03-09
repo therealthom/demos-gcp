@@ -1,0 +1,5 @@
+streamlit
+face_recognition
+google-cloud-documentai
+google-cloud-storage
+pandas
